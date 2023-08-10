@@ -1,0 +1,28 @@
+h1{
+    color: brown;
+    text-align: center;
+}
+table {
+    border-collapse: collapse;
+    width: 80%;
+    margin: auto;
+    border: 1px solid lightgray;
+  }
+
+  th,
+  td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid lightgray;
+    border-right: 1px solid lightgray;
+  }
+
+  th {
+    background-color: pink;
+  }
+
+  img {
+    max-width: 100px;
+    height: auto;
+    /* border: 1px solid #ccc;  */
+  }
